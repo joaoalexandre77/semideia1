@@ -1,0 +1,95 @@
+header div{
+    background-color: #ffffff;
+    padding-bottom: 10px;
+    margin-top: 5px;
+    border-radius: 30px;
+    margin-left: 280px;
+margin-right: 280px;
+border: 1px solid black;
+}
+nav ul{
+    display: flex;
+    justify-content: center;     
+}
+
+ul li {
+  border: 1px solid black;
+  margin-right: 15px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 10px;
+  list-style-type: none;
+  background-color: rgb(238, 12, 12);  
+
+}
+
+li a {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ header div h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0) ;
+}
+
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article header {
+    font-size: 50px;
+   margin-left: 300px;
+   font-family:fantasy;
+   margin-top: 50PX;
+   margin-bottom: 50PX;
+   color: #ffffff;
+   
+}
+
+article h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    font-size: 22px;
+    text-decoration-line:underline ;
+
+}
+
+article p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+article img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600PX;
+}  
+
+
+body{
+ background-color: #030A8C;
+}
+
+article h1{
+color: rgb(240, 13, 13);
+}
+
+article div{
+border: 1px solid black;
+border-radius: 40px;
+padding-bottom: 20px;
+margin-left: 280px;
+margin-right: 280px;
+background-color: #ffffff;
+}
